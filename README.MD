@@ -17,9 +17,9 @@ be focused on a price-sensitive audience
 
 ![google_keywords](./img1.png)
 
-*[Introductory Video ]()
-*[More on Data Science for Search Engine Marketing (SEM)](https://www.datacamp.com/community/tutorials/sem-data-science)
-*[more on Matching Options ](https://support.google.com/google-ads/answer/7478529)
+*[Introductory Video ](https://www.youtube.com/watch?v=m4SaXPVidWk) <br>
+*[More on Data Science for Search Engine Marketing (SEM)](https://www.datacamp.com/community/tutorials/sem-data-science)<br>
+*[More on Matching Options ](https://support.google.com/google-ads/answer/7478529)<br>
 *[Google Keyoword Planner ](https://ads.google.com/home/tools/keyword-planner/)
 
 ![google_keywords](./img2.png)
